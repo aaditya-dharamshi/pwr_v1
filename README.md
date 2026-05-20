@@ -1,4 +1,4 @@
-# pwr_v2
+# pwr_v1
 Main powerboard (2nd version) PCB files.
 
 This was the first major board designed for SeeGoals, a project under FIA Robotics at Linkoping University, Sweden. I designed the complete PCB (assisted by other teammates who have developed the foundation), and the design files are shared here with permission from LiU SeeGoals.
